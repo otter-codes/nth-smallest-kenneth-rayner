@@ -18,4 +18,5 @@ class NthLargestSpec extends WordSpec with MustMatchers {
      intercept[IllegalArgumentException]{ NthLargest.findNthLargest(List(1,2),3) }
     }
   }
+
 }
