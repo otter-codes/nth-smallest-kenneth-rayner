@@ -1,6 +1,7 @@
 import org.scalatest.{MustMatchers, WordSpec}
 
-class NthLargestSpec extends WordSpec with MustMatchers {
+class NthLarge
+stSpec extends WordSpec with MustMatchers {
 
 
   "NthLargest"  must {
