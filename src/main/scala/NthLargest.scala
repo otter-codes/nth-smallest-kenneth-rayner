@@ -1,5 +1,3 @@
-class IllegalArgumentException extends Exception
-
 object NthLargest {
   def findNthLargest(input: List[Int], key: Int): Int = {
 
